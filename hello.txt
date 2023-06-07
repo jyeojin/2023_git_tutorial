@@ -1,0 +1,4 @@
+Hello world!
+My name is yeojin.
+My student number is 2022-17407.
+Goodbye!!
